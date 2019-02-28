@@ -1,7 +1,7 @@
 # Data Blog Post
 ------
 
-### a thousand ways to draw a thing
+### A Thousand Ways to Draw a Thing
 ![Yannick Assogba](owls.png?raw=true "Yannick Assogba")
 
 “a thousand ways to draw a thing" uses Google's "quickdraw!" experiment to create interesting representations of a word. quickdraw! is a game in which users are given a word to draw well enough where Google's AI can recognize the drawing in under 20 seconds. What has resulted are over 100,000 different sketches for each word. Assogba uses a method known as Principle Component Analysis to sort the drawings in a way which puts them next to drawings which look similar. What is created is a spectrum of groups of slightly different interpretations of the same word. I had a lot of fun playing with quickdraw!. What was the most fun was seeing how other people interpreted the word. Sometimes every drawing would look the same, like rake or bread, and other times they would be really different, like water slide.
@@ -11,7 +11,7 @@ And here is a link to quickdraw!: https://quickdraw.withgoogle.com/#
 
 
 ### Small Arms and Ammunitions - Imports and Exports
-![Google Ideas](small_arms.png?raw=true "Google Ideas")
+![Google Ideas](small_arms.jpg?raw=true "Google Ideas")
 
 Another Google production, Small Arms and Ammunitions visualizes the government-sanctioned sales of arms and ammunitions between 1992 and 2010. It shows the Earth with glowing lines connecting all countries who have participated in these known small arms sales and purchases. The thicker and brighter the line, the more valuable the countries imports or exports to the country the line goes to. Imports are in blue, and exports are in orange. The site also breaks down other factors such as ammunition vs civilian weapons vs military and a country's total imports and exports in dollars. I found this fascinating because it showed which countries are the most involved in this market, and with whom they are most involved with. This is a very serious topic, and I think this graphic does a good job respecting that fact.
 
